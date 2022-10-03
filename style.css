@@ -1,0 +1,10 @@
+.second-image {
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.buttons{
+    position: sticky;
+}
